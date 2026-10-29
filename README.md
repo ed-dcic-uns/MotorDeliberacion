@@ -4,7 +4,7 @@
 **Lenguaje de Desarrollo:** Java  
 **Año:** 2026 \- Segundo cuatrimestre
 
-# **1\. Introducción**
+# **1\. Introducción** 
 
 El análisis de debates en plataformas digitales requiere modelos computacionales capaces de representar cómo las opiniones se ramifican: se apoyan o se refutan. En este proyecto, se desarrollará el backend de un Motor de Deliberación Simplificado, un sistema diseñado para almacenar, indexar y consultar opiniones.
 
